@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ClubStats.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Displays2go\Sandbox\playground\ClubStats\.idea\.idea.ClubStats\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
