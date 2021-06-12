@@ -7,10 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="CsvSerializer" Version="1.0.1" />
-      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
       <PackageReference Include="Prism.Wpf" Version="8.0.0.1909" />
-      <PackageReference Include="RestSharp" Version="106.11.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ClubStats.API\ClubStats.API.csproj" />
     </ItemGroup>
 
 </Project>
